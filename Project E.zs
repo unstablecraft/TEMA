@@ -14,7 +14,7 @@ recipes.addShaped(<projecte:transmutation_table>, [[<draconicevolution:draconic_
 recipes.addShaped(<minecraft:golden_apple:1>, [[<minecraft:gold_block>, <minecraft:gold_block>, <minecraft:gold_block>], [<minecraft:gold_block>, <minecraft:golden_apple>, <minecraft:gold_block>], [<minecraft:gold_block>, <minecraft:gold_block>, <minecraft:gold_block>]]);
 
 
-<projecte:condenser_mk1>.addTooltip(format.red("(recipe changed by Irvin)"));
+<projecte:condenser_mk1>.addTooltip(format.red("(recipe changed by irvin)"));
 <projecte:condenser_mk2>.addTooltip(format.red("(recipe changed by Irvin)"));
 <projecte:item.pe_philosophers_stone>.addTooltip(format.red("(recipe changed by Irvin)"));
 <projecte:transmutation_table>.addTooltip(format.red("(recipe changed by Irvin)"));
