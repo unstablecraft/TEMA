@@ -2,7 +2,7 @@ print("Project E");
 
 //recipe changes because project is way to F*ing easy
 recipes.remove(<projecte:condeser_mk1>);
-recipes.remove(<projecte:condeser_mk2>);.
+recipes.remove(<projecte:condeser_mk2>);
 recipes.remove(<projecte:item.pe_philosophers_stone>);
 recipes.remove(<projecte:transmutation_table>);
 
